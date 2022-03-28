@@ -1,7 +1,8 @@
 # tester
 
-bingo
-bango
-bongo
-bish
-bash
+bingo\
+bango\
+bongo\
+bish\
+bash\
+bosh\
